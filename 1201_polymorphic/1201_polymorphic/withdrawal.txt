@@ -1,0 +1,7 @@
+savings123 5000
+savings131 5060
+checking661 3000
+checking688 1000
+credit123 5000
+fixedsaving123 1000
+x 0

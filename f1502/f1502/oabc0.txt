@@ -1,0 +1,3 @@
+oabc0.txt is ok;
+oabc0.txt is ok.
+oabc0.txt is ok.
